@@ -54,6 +54,8 @@ class ViewController: UIViewController {
         
         password = Int.random(in: 0...9999)
         
+        
+        
     }
     
 }
